@@ -1,11 +1,11 @@
 ## Joe Newman
 
-I'm a classic career-changer. I worked as a Chartered Accountant in financial services for most of my career but I now feel that it's time to do something that genuinely stimulates me. Why software development? Mainly because during my career when working with developers I've found that reviewing their code was far more interesting than reviewing financial statements! And creating prototype applications for them was truly fulfilling. Doing the Makers Academy web-development bootcamp (Jan-Apr 2015) enabled me to accelerate my coding knowledge and unleash my creativity. I'm now looking to use these skills within a reasonably small team in a dynamic and hard-working environment, preferably with a back-end programming focus.
+I'm a classic career-changer. I worked as a Chartered Accountant in financial services for most of my career but I now feel that it's time to do something that genuinely stimulates me. Why software development? Mainly because during my career when working with developers I've found that reviewing their code was far more interesting than reviewing financial statements! And creating prototype applications for them was truly fulfilling. Doing the Makers Academy web-development bootcamp enabled me to accelerate my coding knowledge and unleash my creativity. I'm now looking to use these skills within a reasonably small team in a dynamic and hard-working environment, preferably with a back-end programming focus.
 
 
 ## Skills
 
-### Technical: Makers Academy
+### Technical: Makers Academy (Jan-Apr 2015)
 
 <table>
   <tbody>
@@ -36,12 +36,14 @@ I'm a classic career-changer. I worked as a Chartered Accountant in financial se
 </tbody>
 </table>
 
+### [PORTFOLIO TO BE ADDED]
+
 ### Technical: Pre-Makers Academy
 
 I taught myself the fundamentals of C#, WPF, SQL and VBA and used the knowledge at work to:
 - Create prototype applications. One particular application was the conversion of a complex series of Visio flowcharts into an investor classification engine. My manager was quite surprised by how quickly I built it and from then on used it as the benchmark speed for the development team.
-- Step through code with programmers to speed up the development of new regulatory systems and to iron-out bugs quickly during the UAT process.
-- Automate repetitive Excel processes using VBA.
+- Review code with programmers during the development of new regulatory systems and to iron-out bugs quickly during the UAT process.
+- Automate repetitive Excel processes using VBA - this saved the team a considerable number of man-hours.
 
 I also developed a credit scoring application using C# / WPF for my Masters degree dissertation.
 
