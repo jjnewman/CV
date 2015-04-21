@@ -1,6 +1,6 @@
 ## Joe Newman
 
-I'm a classic career-changer. I worked as a Chartered Accountant in financial services for most of my career but I now feel that it's time to do something that genuinely stimulates me. Why software development? Mainly because during my career when working with developers I've found that reviewing their code was far more interesting than reviewing financial statements! And creating prototype applications for them was truly fulfilling. Doing the Makers Academy web-development bootcamp enabled me to accelerate my coding knowledge and unleash my creativity. I'm now looking to use these skills within a reasonably small team in a dynamic and hard-working environment, preferably with a back-end programming focus.
+I'm a classic career-changer. I worked as a Chartered Accountant in financial services for a number of years but I now feel that it's time to do something that genuinely stimulates me. Why software development? Mainly because during my career when working with developers I found that reviewing their code was far more interesting than reviewing financial statements! And creating prototype applications for them was truly fulfilling. Doing the Makers Academy web-development bootcamp enabled me to accelerate my coding knowledge and unleash my creativity. I'm now looking to use these skills within a reasonably small team in a dynamic and hard-working environment, preferably with a back-end programming focus.
 
 
 ## Skills
@@ -57,7 +57,7 @@ More recently at SS&C GlobeOp, I was responsible for managing an offshore team o
 
 ####Technical Communication Skills
 
-An important element of my previous role was acting as a bridge between IT and finance, explaining business requirements to the development team and IT issues to finance. Business requirement documents and Excel models were often created to provide more detailed elaboration. 
+An important element of my previous role was acting as a bridge between IT and Finance, explaining business requirements to the development team and IT issues to Finance. Business requirement documents and Excel models were often created to provide more detailed information. 
 Similarly, during audit work it was often necessary to tailor enquiries/explanations based on the audience.
 
 ####Business Awareness
