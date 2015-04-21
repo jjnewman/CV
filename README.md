@@ -7,25 +7,25 @@ I'm a classic career-changer. I worked as a Chartered Accountant in financial se
 
 ### Technical
 
-------------- | -------------
+------------- | -------------------------
 Methodology  | Test-Driven Development (TDD) 
               | Behavior-Driven Development (BDD) 
               | Agile Methodology & Best Practices 
-            | SOLID Design Principles 
+              | SOLID Design Principles 
               | Pair Programming 
               | Version Control with Git
 ------------- | -------------
 Languages     | Ruby
               | Javascript
---------------| --------------
+-------------- | --------------
 Frameworks    | Rails
               | Sinatra
---------------| --------------              
+-------------- | --------------              
 Test Frameworks | RSpec
                 | Cucumber 
                 | Capybara 
                 | Jasmine
----------------- |-------------                
+---------------- | -------------                
 Front-End       | HTML5 
                 | CSS3 
                 | jQuery 
@@ -36,7 +36,6 @@ Front-End       | HTML5
 Databases and ORMs | PostgresQL 
                     | Datamapper 
                     | ActiveRecord
----------------- | -----------------                    
 
 
 4) Programming
