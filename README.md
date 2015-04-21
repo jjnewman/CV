@@ -68,7 +68,7 @@ I have a broad understanding of finance and business from my qualifications and 
 
 During the project work at Makers Academy I was told (for the first time in my life) that I had a certain competence for acting and I was therefore recruited by various teams to star in their product videos, here are a couple:
 - https://www.youtube.com/watch?v=5xSJhFoEBcs
-- https://www.youtube.com/watch?v=rC8bOD7lQbo)
+- https://www.youtube.com/watch?v=rC8bOD7lQbo
 
 I believe that this is more down to an expressive face and enthusiasm rather than any innate acting ability!
 
