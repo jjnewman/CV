@@ -42,7 +42,7 @@ I'm a classic career-changer. I worked as a Chartered Accountant in financial se
 
 I taught myself the fundamentals of C#, WPF, SQL and VBA and used the knowledge at work to:
 - Create prototype applications. One particular application was the conversion of a complex series of Visio flowcharts into an investor classification engine. My manager was quite surprised by how quickly I built it and from then on used it as the benchmark speed for the development team.
-- Review code with programmers during the development of new regulatory systems and to iron-out bugs quickly during the UAT process.
+- Review code with programmers during the development of new regulatory systems. This enabled logic to be refined and bugs removed quickly during the UAT process.
 - Automate repetitive Excel processes using VBA - this saved the team a considerable number of man-hours.
 
 I also developed a credit scoring application using C# / WPF for my Masters degree dissertation.
@@ -69,6 +69,7 @@ I have a broad understanding of finance and business from my qualifications and 
 During the project work at Makers Academy I was told (for the first time in my life) that I had a certain competence for acting and I was therefore recruited by various teams to star in their product videos, here are a couple:
 - https://www.youtube.com/watch?v=5xSJhFoEBcs
 - https://www.youtube.com/watch?v=rC8bOD7lQbo)
+
 I believe that is more due to an expressive face and enthusiasm rather than any innate acting ability!
 
 
