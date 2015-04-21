@@ -57,8 +57,8 @@ More recently at SS&C GlobeOp, I was responsible for managing an offshore team o
 
 ####Technical Communication Skills
 
-An important element of my previous role was acting as a bridge between IT and Finance, explaining business requirements to the development team and IT issues to Finance. Business requirement documents and Excel models were often created to provide more detailed information. 
-Similarly, during audit work it was often necessary to tailor enquiries/explanations based on the audience.
+An important element of my previous role was acting as a bridge between IT and Finance, explaining business needs to the development team and IT issues to Finance. Business requirement documents and Excel models were often created to provide more detailed information. 
+Similarly, during audit work it was necessary to tailor enquiries/explanations according to the audience.
 
 ####Business Awareness
 
