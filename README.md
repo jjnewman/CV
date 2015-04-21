@@ -1,94 +1,79 @@
 ## Joe Newman
 
-I'm a classic career-changer. I worked as a Chartered Accountant in financial services for most of my career but I now feel that it's time to do something that genuinely stimulates me. Why software development? Mainly because during my career when working with developers I've found that reviewing their code was far more interesting than reviewing financial statements! And creating prototype applications for them was truly fulfilling. Makers Academy has enabled me to learn quickly the fundamentals of coding and I'm now looking to use these skills with a reasonably small team in a creative and hard-working environment, preferably with a back-end programming focus.
+I'm a classic career-changer. I worked as a Chartered Accountant in financial services for most of my career but I now feel that it's time to do something that genuinely stimulates me. Why software development? Mainly because during my career when working with developers I've found that reviewing their code was far more interesting than reviewing financial statements! And creating prototype applications for them was truly fulfilling. Doing the Makers Academy web-development bootcamp (Jan-Apr 2015) enabled me to accelerate my coding knowledge and unleash my creativity. I'm now looking to use these skills within a reasonably small team in a dynamic and hard-working environment, preferably with a back-end programming focus.
 
 
 ## Skills
 
-### Technical
+### Technical: Makers Academy
 
-------------- | -------------------------
-Methodology  | Test-Driven Development (TDD) 
-              | Behavior-Driven Development (BDD) 
-              | Agile Methodology & Best Practices 
-              | SOLID Design Principles 
-              | Pair Programming 
-              | Version Control with Git
-------------- | -------------
-Languages     | Ruby
-              | Javascript
--------------- | --------------
-Frameworks    | Rails
-              | Sinatra
--------------- | --------------              
-Test Frameworks | RSpec
-                | Cucumber 
-                | Capybara 
-                | Jasmine
----------------- | -------------                
-Front-End       | HTML5 
-                | CSS3 
-                | jQuery 
-                | AngularJS
-                | AJAX 
-                | Heroku 
---------------- | --------------
-Databases and ORMs | PostgresQL 
-                    | Datamapper 
-                    | ActiveRecord
+<table>
+  <tbody>
+   <tr>
+    <td><h5>Languages</h5></td>
+    <td>Ruby<br>Javascript</td>
+  </tr>
+  <tr>
+    <td><h5>Frameworks</h5></td>
+    <td>Rails<br>Sinatra</td>
+  </tr>
+  <tr>
+    <td><h5>Databases and ORMs</h5></td>
+    <td>PostgreSQL<br>Datamapper<br>ActiveRecord</td>
+  </tr>
+  <tr>
+    <td><h5>Front-End</h5></td>
+    <td>HTML5, CSS3<br>AngularJS, jQuery<br>AJAX<br>Heroku</td>
+  </tr>
+  <tr>
+    <td><h5>Testing Frameworks</h5></td>
+    <td>RSpec<br>Cucumber<br>Capybara<br>Jasmine</td>
+  </tr>
+  <tr>
+    <td><h5>Methodology</h5></td>
+    <td>TDD, BDD<br>Agile Methodology<br>SOLID Design Principles<br>Pair Programming<br>Git Version Control</td>
+  </tr>
+</tbody>
+</table>
 
+### Technical: Pre-Makers Academy
 
-4) Programming
-e.g. FATCA app prototyping, Makers
-- Creativity
+I taught myself the fundamentals of C#, WPF, SQL and VBA and used the knowledge at work to:
+- Create prototype applications. One particular application was the conversion of a complex series of Visio flowcharts into an investor classification engine. My manager was quite surprised by how quickly I built it and from then on used it as the benchmark speed for the development team.
+- Step through code with programmers to speed up the development of new regulatory systems and to iron-out bugs quickly during the UAT process.
+- Automate repetitive Excel processes using VBA.
 
-5) Project Management
-e.g Russia, GlobeOp
+I also developed a credit scoring application using C# / WPF for my Masters degree dissertation.
 
-2) Finance / business etc
-- Accounting systems / financial services / financial analysis
-- (bridge between finance/business)
-- Business awareness
-- Management information
-- Communication skills (oral - Lloyds, written - BRDs)
+###Other skills
 
-1) Testing 
-e.g. UAT, audit, TDD
+####Project Management
 
-3) Teamwork
-e.g. pairing / projects
+When I worked as an auditor in the Russian Far East most of the clients were natural resource companies located in extremely remote locations. Strong project management and teamwork skills (and a positive attitude) were therefore needed to plan the work and supervise the juniors within a limited timeframe at multiple sites, often with uncooperative clients!
 
-6) Other
-(Acting! more due to expressive face and enthusiasm rather than any innate acting ability!
+More recently at SS&C GlobeOp, I was responsible for managing an offshore team of developers, ensuring that system modifications were fully tested and released within target deadlines.
+
+####Technical Communication Skills
+
+An important element of my previous role was acting as a bridge between IT and finance, explaining business requirements to the development team and IT issues to finance. Business requirement documents and Excel models were often created to provide more detailed elaboration. 
+Similarly, during audit work it was often necessary to tailor enquiries/explanations based on the audience.
+
+####Business Awareness
+
+I have a broad understanding of finance and business from my qualifications and experience to date. I believe that these skills are transferable to any future role and will certainly enable me to see the "big picture" business perspective when working on applications.
+
+####Other
+
+During the project work at Makers Academy I was told (for the first time in my life) that I had a certain competence for acting and I was therefore recruited by various teams to star in their product videos, here are a couple:
 - https://www.youtube.com/watch?v=5xSJhFoEBcs
 - https://www.youtube.com/watch?v=rC8bOD7lQbo)
+I believe that is more due to an expressive face and enthusiasm rather than any innate acting ability!
 
-Mentoring
 
+## Education and Qualifications
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (Jan 2015 to Apr 2015)
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Javascript, Node.js, Angular,js
-- Rspec, Jasmine, Cucumber
+- Fully qualified Chartered Accountant (2001)
+- Chartered Financial Analyst program, level II (2014)
 
 #### University of Westminster (Sep 2009 to Jun 2011)
 - Decision Sciences, MSc with Distinction
@@ -98,11 +83,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Bradfield College (Sep 1990 to Jun 1995)
 - A Levels: Mathematics (A), Geography (A), Physics (B)
-
-### Other qualifications
-
-- Fully qualified Chartered Accountant (2001)
-- Chartered Financial Analyst (2014)
 
 ## Experience
 
