@@ -70,7 +70,7 @@ During the project work at Makers Academy I was told (for the first time in my l
 - https://www.youtube.com/watch?v=5xSJhFoEBcs
 - https://www.youtube.com/watch?v=rC8bOD7lQbo)
 
-I believe that is more due to an expressive face and enthusiasm rather than any innate acting ability!
+I believe that this is more down to an expressive face and enthusiasm rather than any innate acting ability!
 
 
 ## Education and Qualifications
