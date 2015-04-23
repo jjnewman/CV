@@ -45,7 +45,7 @@ Project Repo | Description
 [Chirpy](https://github.com/jjnewman/languageapp-chirpy)| A social networking site for language learning. My final Makers <br>Academy project completed with four other team members.<br>Technologies: Ruby, Ruby on Rails, JavaScript, AngularJS, <br>Websockets, RSpec, Protractor, HTML, CSS
 [NapStop](https://github.com/jjnewman/NapStop) | A mobile app employing geolocation technology, designed to wake  <br>users up before their station stop! Built with three other team members.<br>Technologies: PhoneGap, JavaScript, JQuery, AngularJS, GoogleAPI <br>RSpec, Protractor, HTML, CSS
 
-A full listing of my Makers repos is available on [GitHub](https://github.com/jjnewman)
+A full listing of my Makers repos is available on [GitHub](https://github.com/jjnewman?tab=repositories)
 
 
 ### Technical: Pre-Makers Academy
