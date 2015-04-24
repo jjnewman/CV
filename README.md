@@ -4,7 +4,6 @@
 
 I'm a classic career-changer. I worked as a Chartered Accountant in financial services for a number of years but I now feel that it's time to do something that genuinely stimulates me. Why software development? Mainly because during my career when working with developers I found that reviewing their code was far more interesting than reviewing financial statements! And creating prototype applications for them was truly fulfilling. Doing the Makers Academy web-development bootcamp enabled me to accelerate my coding knowledge and unleash my creativity. I'm now looking to use these skills within a reasonably small team in a dynamic and hard-working environment, preferably with a back-end programming focus.
 
-
 ## Skills
 
 ### Technical: Makers Academy (Jan-Apr 2015)
