@@ -84,7 +84,7 @@ I believe that this is more down to an expressive face and enthusiasm rather tha
 
 ## Education and Qualifications
 
-- Fully qualified Chartered Accountant (2001)
+- Qualified Chartered Accountant (ICAEW, 2001)
 - Chartered Financial Analyst program, level II (2014)
 
 #### University of Westminster (Sep 2009 to Jun 2011)
