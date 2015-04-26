@@ -50,7 +50,7 @@ A full listing of my Makers repos is available on [GitHub](https://github.com/jj
 ### Technical: Pre-Makers Academy
 
 I taught myself the fundamentals of C#, WPF, SQL and VBA and used the knowledge at work to:
-- Create prototype applications. One particular application was the conversion of a complex series of Visio flowcharts into an investor classification engine. My manager was quite surprised by how quickly I built it and from then on used it as the benchmark speed for the development team.
+- Create prototype applications for developers. One particular application was the conversion of a complex series of Visio flowcharts into an investor classification engine. My manager was quite surprised by how quickly I built it and from then on used it as the benchmark speed for the development team.
 - Review code with programmers during the development of new regulatory systems. This enabled logic to be refined and bugs removed quickly during the UAT process.
 - Automate repetitive Excel processes using VBA - this saved the team a considerable number of man-hours.
 
