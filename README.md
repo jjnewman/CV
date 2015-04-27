@@ -46,7 +46,6 @@ Project Repo | Description
 
 A full listing of my Makers repos is available on [GitHub](https://github.com/jjnewman?tab=repositories)
 
-
 ### Technical: Pre-Makers Academy
 
 I taught myself the fundamentals of C#, WPF, SQL and VBA and used the knowledge at work to:
